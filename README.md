@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I am currently looking for a job or research opportunity in robotics and ML. 
 <!--
 **droid-surbhi/droid-surbhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
